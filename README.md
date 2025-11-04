@@ -1196,6 +1196,8 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 ## Transformer-agnostic Model <span id="transformer-agnostic-models-"></span>
 | **Year** |     **Model**     |                                                              **Title**                                                             | **Venue**  |                                                    **Paper**                                                     |                         **Code**                         |
 |:--------:|:-----------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|
+| 2025 |  **ROAD**  |        **Unveiling Cross-Modal Consistency: Taming Inter- and Intra-Modal Noise for Robust Multi-Modal Knowledge Graph Completion**        |           IPM          |                     [Link](-)                    | [Link](https://github.com/ICDM-UESTC/ROAD) |
+| 2025 |  **INCADE**  |        **Navigating the Implicit Map: Community-Aware Disentangled Experts for Multi-Modal Knowledge Graph Completion**        |           ICME          |                     [Link](https://ieeexplore.ieee.org/document/11209090)                    | [Link](https://github.com/shchli/INCADE) |
 | 2024 |  **CMGCH**  |        **Self-Supervised Multi-Modal Knowledge Graph Contrastive Hashing for Cross-Modal Search**        |           AAAI          |                     [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29280)                    | [Link](-) |
 | 2024 |  **EIIC**  |        **Knowledge-Aware Neuron Interpretation for Scene Classification**        |           AAAI          |                     [Link](https://ojs.aaai.org/index.php/AAAI/article/view/27965)                    | [Link](https://github.com/neuroninterpretation/EIIC) |
 | 2023     | **--**         | **Multimodal Biological Knowledge Graph Completion via Triple Co-attention Mechanism**                                          | ICDE      |                                    [Link](-)                                   |-                               |
@@ -1276,3 +1278,4 @@ AKGR is a collection of knowledge graph reasoning works, including papers, codes
 - KG-Tutorials [code](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers)
 
 [Back](#bookmarks-)
+
